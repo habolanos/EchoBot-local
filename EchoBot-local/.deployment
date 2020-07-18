@@ -1,0 +1,2 @@
+[config]
+SCM_SCRIPT_GENERATOR_ARGS=--aspNetCore "D:\Curso_IA\Clase_20200718\EchoBot-local\EchoBot-local\EchoBot-local.csproj"
